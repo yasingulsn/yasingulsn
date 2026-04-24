@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Üst Başlık - Hareketli Dalga Efekti -->
+<!-- Üst Başlık - Renkli Dalga Efekti -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Yasin%20G%C3%BCl%C5%9Fen&fontSize=90&animation=fadeIn&fontAlignY=38" />
 
 <!-- Hareketli Alt Başlık -->
@@ -40,15 +40,10 @@ Ben, **Java Backend** çekirdeğinde uzmanlaşmış, **Spring Boot** ve **Quarku
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasingulsn&layout=compact&theme=radical" height="195" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasingulsn&theme=radical" />
-</p>
-
 ---
 
 ### 🐍 GitHub Contribution Snake
 <p align="center">
-  <!-- Bu kısım GitHub Action ile otomatik beslenecek veya statik bir animasyon olarak kalacak -->
   <img src="https://raw.githubusercontent.com/yasingulsn/yasingulsn/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
@@ -57,8 +52,12 @@ Ben, **Java Backend** çekirdeğinde uzmanlaşmış, **Spring Boot** ve **Quarku
 ### 📫 Let's Build Something Amazing!
 
 <p align="center">
-<a href="https://linkedin.com/in/yasingulsn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:yasingulsn@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yasingulsen/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:yasingulsen28m@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 </div>
